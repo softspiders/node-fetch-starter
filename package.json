@@ -1,0 +1,14 @@
+{
+  "name": "node-fetch-starter",
+  "version": "1.0.0",
+  "description": "node-fetch starter",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Alexander Lapygin <alexanderlapygin@gmail.com> (https://github.com/AlexanderLapygin)",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
