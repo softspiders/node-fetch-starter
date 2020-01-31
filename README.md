@@ -2,7 +2,7 @@ SOFTSPIDERS
 
 # node-fetch-starter
 
-Minimalistic node-fetch starter
+Minimalistic [*node-fetch*](https://github.com/node-fetch/node-fetch) starter
 
 ---
 
