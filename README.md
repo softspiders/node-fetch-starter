@@ -8,9 +8,7 @@ Minimalistic [*node-fetch*](https://github.com/node-fetch/node-fetch) starter
 
 ## Feature tags
 
-- fetch
 - isomorphic
-- node
 - node-fetch
 - starter
 - template
