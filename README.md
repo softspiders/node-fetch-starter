@@ -1,4 +1,4 @@
-SOFTSPIDERS
+[SOFTSPIDERS](https://github.com/softspiders/softspiders)
 
 # node-fetch-starter
 
@@ -14,6 +14,7 @@ Minimalistic [*node-fetch*](https://github.com/node-fetch/node-fetch) starter
 - template
 
 ## Direct descendants
+
 - [Jest-tested rest client starter](https://github.com/softspiders/rest-client-jest-starter)
 
 ---
